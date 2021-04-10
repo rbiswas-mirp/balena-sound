@@ -1,4 +1,19 @@
 - commits:
+    - subject: 'docs: Add upgrade instructions to docs'
+      hash: 90c07aa854602fe150f18b38585bfabf8d13454d
+      body: ''
+      footer:
+        Connects-to: '#434'
+        connects-to: '#434'
+        Change-type: patch
+        change-type: patch
+        Signed-off-by: Roddie Hasan <roddie@krweb.net>
+        signed-off-by: Roddie Hasan <roddie@krweb.net>
+      author: Roddie Hasan
+      nested: []
+  version: 3.5.3
+  date: 2021-04-10T20:16:01.982Z
+- commits:
     - subject: 'multiroom: fix snapcast version'
       hash: eef82e73a67a3e46d8901042ffc42fca64284549
       body: |
